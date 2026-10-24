@@ -1,0 +1,9 @@
+# local tooling and notes, not part of the published site
+promo-video/
+.claude/
+higgsfield-prompts.md
+
+# OS clutter
+Thumbs.db
+desktop.ini
+.DS_Store
